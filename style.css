@@ -1,0 +1,16 @@
+table{
+    /* width: 60%; */
+    position: relative;
+    left: 20%;
+    margin-top: 5%;
+    border-spacing: 0.5rem;
+    text-align: center;
+}
+
+td{
+    background-color: red;
+}
+
+th{
+    background-color: royalblue;
+}
